@@ -103,10 +103,10 @@ p{
 }
 
 .pricing-column{
-    text-align:center;
     padding:3% 2%;
 }
 
 #pricing{
+    text-align:center;
     padding:100px;
 }
