@@ -123,7 +123,8 @@ p {
 @media (max-width: 990px) {
     .title-image {
         transform: rotate(0);
-        position: static;
+        position: relative;
+        right:10%;
     }
 
     #title {
